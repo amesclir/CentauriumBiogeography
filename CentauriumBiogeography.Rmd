@@ -77,7 +77,7 @@ tipranges
 max_range_size = 5
 
 numstates_from_numareas(numareas=6, maxareas=5, include_null_range=TRUE)
-numstates_from_numareas(numareas=6, maxareas=5, include_null_range=FALSE)
+#numstates_from_numareas(numareas=6, maxareas=5, include_null_range=FALSE)
 
 
 ```
